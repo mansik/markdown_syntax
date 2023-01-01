@@ -155,3 +155,26 @@ ___
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull requestTask lists
+
+
+# 호환성을 위해 문장 앞뒤로 빈줄 삽입을 해야 하는 상황
+
+ - Heading(`#`) 문자
+ - Blockquotes(`>`) 문자
+ - Line(`---`) 문자
+ 
+ - 예제)
+  ```
+  # Heading 아래에 빈줄 샆입
+ 
+ > Blockquotes 위에 빈줄 삽입
+ > 여기는 붙어서
+ >
+ > Blockquotes 아래에 빈줄 삽입
+ 
+ 글을 쓰면, 아래에 Line 있으므로 Line 위, 아래에 빈줄 삽입
+ 
+ ---
+ 
+ 위에 Line 이 있으므로 빈줄 삽입
+ ```
