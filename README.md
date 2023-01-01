@@ -62,7 +62,7 @@ This is really ***very*** important text.
     2. Indented item
 3. Third item 
 
-# Unordered Lists(`-`, `+`, `*`)
+# Unordered Lists(`- `, `+ `, `* `)
 
 - 🍎
 - 🍋
@@ -113,27 +113,28 @@ name = input('your name: ')
 print(name)
 ```
 
-### Horizontal Rules(`***`, `---`, `___`)
+# Horizontal Rules(`***`, `---`, `___`)
 
 ***
 
 ---
 
-_________________
+___
 
 
-## Image
+# Image(`![Image](url)`)
 
-Drag & Drop 로 가능  
-`![Image](http://url/a.png)` => ![Image](http://url/a.png) 
+> Drag & Drop 로 가능  
 
-
-# Url
-
-`[link](http://google.com)` => [link](http://google.com)
+![Image](http://url/a.png) 
 
 
-# Table(|, ---, :)
+# Url(`[link](http://google.com)`)
+
+[link](http://google.com)
+
+
+# Table(`|`, `---`, `:`)
 
 > `:` 는 정렬, `:---` 좌측 정렬, `---:` 우측 정렬, `:---:` 가운데 정렬
 
