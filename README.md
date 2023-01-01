@@ -1,12 +1,13 @@
 # markdown-syntax
 
-> 참고 사이트
+#### 참고 사이트
+
 > - [markdown syntax](https://www.markdownguide.org/basic-syntax/#code)  
 > - [markdownguide](https://www.markdownguide.org/)  
 > - [github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 
 
-# Heading 표시
+# Heading 표시(`#`)
 
 - Command Mode에서 작업 : Esc 또는 Ctrl + m
 - Command Mode에서 키보드 1 -> Enter -> Down 키로 입력할 수도 있음
@@ -18,9 +19,7 @@
 ##### `#####` Heading level 5
 ##### `######` Heading level 6
 
-# 줄바꿈 
-
- > 줄의 끝에서 space space enter 키 입력 후 다음줄 입력하면 된다.
+# 줄바꿈(space space enter)
 
 space space enter  
 후 실행하면 줄바꿈으로 표기된다.  
@@ -29,15 +28,14 @@ space space enter
 enter 후 바로 입력하여 2줄로 표시되는데 실행하면 줄바꿈이 안된다.  
 
 - 또는 줄의 처음을 `-`, `+`, `*`, `#`, `>` 등 특수한 목적의 문자로 시작하면 줄바꿈 된다.
--This is the first line.  
+- This is the first line.  
 And this is the second line. 
 
 
 # Bold(`**`), Italic(`*`), Bold and Italic(`***`)
 
 I just love **bold text**.  
-I just love __bold text__.  
-This text is __*really important*__.  
+This text is *really important*.  
 Love**is**bold.  
 A*cat*meow  
 This is really ***very*** important text.  
