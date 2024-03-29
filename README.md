@@ -99,14 +99,14 @@ This is really ***very*** important text.
 
 # Code Block(```언어명)
 
-> 사용언어명을 명시하지 않음
+> 사용언어명을 명시하지 않음(``` code)
 
 ```
 name = input('your name: ')
 print(name)
 ```
 
-> 사용언어명을 명시
+> 사용언어명을 명시(```python   code)
 
 ```python
 name = input('your name: ')
