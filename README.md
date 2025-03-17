@@ -237,12 +237,11 @@ This is really ***very*** important text.
 
 ***- syntax:***
 
-```markdown
-` ` `
-name = input('your name: ')
-print(name)
-` ` `
-```
+> \`\`\`  
+> name = input('your name: ')  
+> print(name)  
+> \`\`\`  
+
 
 ***- result:***
 
@@ -255,12 +254,11 @@ print(name)
 
 ***- syntax:***
 
-```markdown
-` ` `python
-name = input('your name: ')
-print(name)
-` ` `
-```
+> \`\`\`python  
+> name = input('your name: ')  
+> print(name)  
+> \`\`\` 
+
 
 ***- result:***
 
