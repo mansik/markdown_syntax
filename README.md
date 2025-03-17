@@ -69,8 +69,8 @@ And this is the second line.
 ```markdown
 I just love **bold text**.  
 This text is *really important*.  
-Love**is**bold.  
-A*cat*meow  
+Love **is** bold.  
+A *cat* meow  
 This is really ***very*** important text. 
 ```
 
@@ -78,8 +78,8 @@ This is really ***very*** important text.
 
 I just love **bold text**.  
 This text is *really important*.  
-Love**is**bold.  
-A*cat*meow  
+Love **is** bold.  
+A *cat* meow  
 This is really ***very*** important text.  
 
 
